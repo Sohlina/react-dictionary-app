@@ -4,6 +4,14 @@
   margin: 0 auto;
 }
 
+.App a {
+  color: #ffb0b0;
+}
+
+.App a:hover {
+  text-decoration: none;
+}
+
 .App header {
   color: #ffb0b0;
   font-family: "Amatic SC", cursive;
