@@ -6,14 +6,12 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <i className="fas fa-book-open"></i> {" "}
-          {" "}
-           Dictionary  
+           Dictionary 
         </header>
         <Search defaultKeyword="coffee"/>
         <small>
           <footer>
-            Coded by Alexandra Sohlin
+            This project is <a href="https://github.com/Sohlina/react-dictionary-app" target="_blank" rel="noreferrer">Open-sourced on Github</a> <br />Coded by Alexandra Sohlin
           </footer>
         </small>
       </div>
