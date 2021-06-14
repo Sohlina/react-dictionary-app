@@ -1,11 +1,18 @@
+.App {
+  background: white;
+}
+
 .App header {
-  color: #867ae9;
+  color: #b4a5a5;
+  padding: 20px;
   text-align: center;
-  font-size: 56px;
-  margin-top: 30px;
+  font-size: 95px;
 }
 
 .App footer {
   text-align: center;
+  font-size: 16px;
   margin-top: 5px;
+  margin-bottom: 15px;
+  color: black;
 }

@@ -6,9 +6,9 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          Dictionary App 
+          <i className="fas fa-book-open"></i> Dictionary  
         </header>
-        <Search />
+        <Search defaultKeyword="coffee"/>
         <small>
           <footer>
             Coded by Alexandra Sohlin
